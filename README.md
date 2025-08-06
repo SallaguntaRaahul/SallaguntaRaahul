@@ -17,26 +17,6 @@ Driven by clean code, system design, and solving real-world challenges through m
 
 ---
 
-## 🛠️ Technical Skills
-
-### 🧾 Languages  
-`Java` · `C` · `C++` · `Python` · `JavaScript` · `TypeScript` · `SQL` · `C#`
-
-### ⚙️ Frameworks & Libraries  
-`Spring Boot` · `React.js` · `Node.js` · `Express.js` · `Flask` · `ASP.NET`
-
-### 🗄️ Databases  
-`MySQL` · `PostgreSQL` · `MongoDB`
-
-### ☁️ Cloud & DevOps  
-`AWS (EC2, S3, Lambda, IAM, RDS)` · `Docker` · `Kubernetes` · `Jenkins` · `Terraform`
-
-### 🔁 Technologies & Concepts  
-`Apache Kafka` · `REST APIs` · `Machine Learning` · `NLP` · `Deep Learning`  
-`CI/CD Pipelines` · `Agile Scrum` · `OOP` · `System Design` · `Scalability`
-
-### 🧪 Testing & Tools  
-`JUnit` · `Jest` · `Selenium` · `Git` · `GitHub` · `JIRA` · `Visual Studio`
 
 
 
