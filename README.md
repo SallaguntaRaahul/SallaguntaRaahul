@@ -22,8 +22,8 @@ Driven by clean code, system design, and solving real-world challenges through m
 
 ## 🧰 Technologies & Tools
 
-<p align="left">
-  <!-- Languages -->
+### 🧾 Languages  
+<p>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -34,8 +34,8 @@ Driven by clean code, system design, and solving real-world challenges through m
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="left">
-  <!-- Frameworks & Libraries -->
+### ⚙️ Frameworks & Libraries  
+<p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -44,15 +44,15 @@ Driven by clean code, system design, and solving real-world challenges through m
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-<p align="left">
-  <!-- Databases -->
+### 🗄️ Databases  
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p align="left">
-  <!-- Cloud & DevOps -->
+### ☁️ Cloud & DevOps  
+<p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -60,16 +60,19 @@ Driven by clean code, system design, and solving real-world challenges through m
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-<p align="left">
-  <!-- Other Technologies -->
+### 🔁 Systems & Concepts  
+<p>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine Learning-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
-<p align="left">
-  <!-- Tools & Testing -->
+---
+
+## 🧪 Tools
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -79,15 +82,7 @@ Driven by clean code, system design, and solving real-world challenges through m
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SallaguntaRaahul&show_icons=true&theme=radical" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
