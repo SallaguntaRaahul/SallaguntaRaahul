@@ -38,17 +38,7 @@ Driven by clean code, system design, and solving real-world challenges through m
 ### 🧪 Testing & Tools  
 `JUnit` · `Jest` · `Selenium` · `Git` · `GitHub` · `JIRA` · `Visual Studio`
 
----
 
-## 💬 Ask Me About
-
-- Java backend development & microservices  
-- Scalable web architectures & distributed systems  
-- Kafka, event-driven design, REST APIs  
-- CI/CD, cloud deployment strategies  
-- System design & full-stack project architecture
-
----
 
 ## 🧰 Technologies & Tools
 
