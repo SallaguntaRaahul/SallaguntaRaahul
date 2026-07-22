@@ -1,94 +1,144 @@
-<h1 align="center">Hi there 👋, I'm Raahul Sallagunta</h1>
+<h1 align="center">Hi 👋, I'm Raahul Sallagunta</h1>
+
+<h3 align="center">
+AI Backend & Full Stack Engineer | Python • FastAPI • LLMs • RAG • AWS
+</h3>
 
 <p align="center">
-🚀 Full Stack Developer | MS in Computer Science @ University at Buffalo  
-Specialized in building scalable systems using Java, Spring Boot, React, Node.js, Kafka, and AWS  
-Driven by clean code, system design, and solving real-world challenges through modern technologies.
+I enjoy building production AI applications, scalable backend systems, and modern full-stack products.
+Currently exploring AI agents, distributed systems, and cloud-native architectures.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Focused on full-stack development using Java, Spring Boot, React, Node.js, and microservices  
-- ☁️ Expanding my expertise in cloud-native development, DevOps practices, and distributed systems  
-- 🤝 Open to collaborating on impactful systems, AI/ML integrations, and backend-heavy projects  
-- 📫 Reach me at: [sallaguntaraahul@gmail.com](mailto:sallaguntaraahul@gmail.com)
+🚀 Software Engineer with experience building AI-powered applications and scalable backend systems.
+
+💡 I enjoy taking ideas from concept to production by building reliable APIs, intelligent workflows, and user-friendly products.
+
+🤖 My recent work focuses on:
+- AI Agents
+- RAG Pipelines
+- LLM Applications
+- FastAPI
+- Distributed Systems
+- AWS
+- Kubernetes
+
+🌱 Currently exploring:
+- Agentic AI
+- Multi-Agent Systems
+- AI Evaluation Frameworks
+- Search & Retrieval Systems
+
+📫 Reach me at:
+**sallaguntar@gmail.com**
 
 ---
 
+# ⚡ Tech Stack
 
+## Languages
 
-
-## 🧰 Technologies & Tools
-
-### 🧾 Languages  
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
- 
-</p>
-
-
-
-### ⚙️ Frameworks & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps  
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
-### 🔁 Systems & Concepts  
-<p>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine Learning-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql"/>
 </p>
 
 ---
 
-## 🧪 Tools
+## AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Langfuse-4B5563?style=for-the-badge"/>
 </p>
 
+---
 
+## Backend
 
-## 🔗 Connect With Me
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sallaguntaraahul)
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 🏗️ What I Like Building
+
+✅ AI-powered products
+
+✅ LLM Applications
+
+✅ RAG Systems
+
+✅ AI Agents
+
+✅ Distributed Backend Systems
+
+✅ Cloud-native APIs
+
+✅ Full-stack Applications
+
+---
+
+# 📈 Currently Working On
+
+- 🤖 AI Agent Applications
+- 📚 RAG & Search Systems
+- ⚡ FastAPI Microservices
+- ☁️ AWS & Kubernetes
+- 🧠 LLM Evaluation Pipelines
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+<a href="https://linkedin.com/in/raahul-sallagunta-344505173">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sallaguntar@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
