@@ -1,144 +1,66 @@
 <h1 align="center">Hi 👋, I'm Raahul Sallagunta</h1>
 
-<h3 align="center">
-AI Backend & Full Stack Engineer | Python • FastAPI • LLMs • RAG • AWS
-</h3>
+<h3 align="center">Software Engineer | Java • Spring Boot • Distributed Systems • Applied AI</h3>
 
 <p align="center">
-I enjoy building production AI applications, scalable backend systems, and modern full-stack products.
-Currently exploring AI agents, distributed systems, and cloud-native architectures.
+  I build reliable backend systems and practical AI features, from event-driven services processing clinical data to retrieval and summarization workflows grounded in evidence.
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/raahul-sallagunta-344505173"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:raahulsalla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 👨‍💻 About Me
-
-🚀 Software Engineer with experience building AI-powered applications and scalable backend systems.
-
-💡 I enjoy taking ideas from concept to production by building reliable APIs, intelligent workflows, and user-friendly products.
-
-🤖 My recent work focuses on:
-- AI Agents
-- RAG Pipelines
-- LLM Applications
-- FastAPI
-- Distributed Systems
-- AWS
-- Kubernetes
-
-🌱 Currently exploring:
-- Agentic AI
-- Multi-Agent Systems
-- AI Evaluation Frameworks
-- Search & Retrieval Systems
-
-📫 Reach me at:
-**sallaguntar@gmail.com**
-
----
-
-# ⚡ Tech Stack
-
-## Languages
+About Me
+- 💻 Software Engineer with 3+ years of experience building backend and full-stack applications.
+- ☕ Focused on Java, Spring Boot, Kafka, and distributed services.
+- 🏥 At CVS Health, work on event-driven clinical services and evidence-grounded AI workflows.
+- 🔎 Interested in search and retrieval, service reliability, performance, and systems engineering.
+- 🎓 M.S. in Computer Science and Engineering from the University at Buffalo.
+Selected Impact
+- Process 120K+ clinical events per day through Java 21, Spring Boot, and Kafka services.
+- Improved clinical REST API p95 latency by 31%, from 430 ms to 297 ms.
+- Raised hybrid-search Recall@10 from 76% to 89% using vector and full-text retrieval with reranking.
+- Reduced unsupported claims in generated clinical summaries by 67% with citations, validation, and human review.
+- Raised workflow completion from 98.9% to 99.7% through resilient AWS deployments and recovery controls.
+Featured Projects
+SmartCartX — E-Commerce Platform
+Java · Spring Boot · PostgreSQL · Redis · React · Docker · AWS
+Designed REST APIs and a relational data model for products, inventory, orders, and payments. Added Redis caching to keep catalog and checkout responses under 300 ms, built a React storefront, and deployed the application in Docker containers on AWS.
+TacoDB — Relational Database Engine
+C++17 · B-Trees · Buffer Pool · External Sort · TPC-H
+Built core database components including POSIX-backed storage, slotted pages, an LRU buffer pool, B-tree indexes, external merge sort, and a Volcano-style query executor with join operators.
+Pintos — OS Kernel Scheduling & Synchronization
+C · x86 · Operating Systems · Concurrency
+Implemented kernel synchronization primitives, a preemptive priority scheduler with cascading priority donation, and a Multi-Level Feedback Queue scheduler.
+Technical Skills
+Languages
+Java · Python · C++ · C · JavaScript · SQL
+Backend & APIs
+Spring Boot · FastAPI · Node.js · Express · REST · SOAP · OpenAPI · Kafka · OAuth2 · JWT
+Data & Applied AI
+PostgreSQL · Redis · pgvector · LangGraph · RAG · Hybrid Search · Cross-Encoder Reranking · Recall@k Evaluation
+Cloud & Delivery
+AWS · EKS · Kubernetes · Docker · Helm · Terraform · GitHub Actions · OpenTelemetry
+Frontend & Testing
+React · JUnit · PyTest · Jest · Selenium
+Systems
+B-Trees · Buffer Pools · External Sorting · Join Algorithms · CPU Scheduling · Concurrency
+Developer Tools
+Git · GitHub · Claude Code · GitHub Copilot
+Contributions & Activity
+I contribute to software through project work, engineering improvements, and continued learning. My public GitHub activity and repositories show the latest code and contributions.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaahulSallagunta&show_icons=true&hide_border=true&rank_icon=github" alt="Raahul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaahulSallagunta&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,sql"/>
+  <img src="https://streak-stats.demolab.com?user=RaahulSallagunta&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
-
-## AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anthropic-Claude-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangSmith-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Langfuse-4B5563?style=for-the-badge"/>
-</p>
-
----
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs"/>
-</p>
-
----
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions"/>
-</p>
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql"/>
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 🏗️ What I Like Building
-
-✅ AI-powered products
-
-✅ LLM Applications
-
-✅ RAG Systems
-
-✅ AI Agents
-
-✅ Distributed Backend Systems
-
-✅ Cloud-native APIs
-
-✅ Full-stack Applications
-
----
-
-# 📈 Currently Working On
-
-- 🤖 AI Agent Applications
-- 📚 RAG & Search Systems
-- ⚡ FastAPI Microservices
-- ☁️ AWS & Kubernetes
-- 🧠 LLM Evaluation Pipelines
-
----
-
-# 🤝 Let's Connect
-
-<p>
-<a href="https://linkedin.com/in/raahul-sallagunta-344505173">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sallaguntar@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+Achievements
+- 🎓 Earned an M.S. in Computer Science and Engineering from the University at Buffalo.
+- 🧩 Built substantial systems projects in database internals and operating systems as part of graduate coursework.
+- 🚀 Delivered measurable improvements in API latency, retrieval quality, summary grounding, and workflow completion.
+<p align="center">Open to building dependable software across backend systems, applied AI, and full-stack products.</p>
